@@ -1,0 +1,24 @@
+{
+  "name": "web-mobile-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianneBorces/web-mobile-runner.git"
+  },
+  "author": "Marianne Borces",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianneBorces/web-mobile-runner/issues"
+  },
+  "homepage": "https://github.com/MarianneBorces/web-mobile-runner#readme",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0"
+  }
+}
