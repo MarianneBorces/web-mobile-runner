@@ -2,5 +2,5 @@
 
 module.exports = {
 	'host' : 'localhost',
-	'port' : 4000
+	'port' : 4001
 };
