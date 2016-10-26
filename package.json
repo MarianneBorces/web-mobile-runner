@@ -7,11 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MarianneBorces/web-mobile-runner.git"
   },
-  "author": "Marianne Borces",
+  "author": "Marianne Grace Borces",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MarianneBorces/web-mobile-runner/issues"

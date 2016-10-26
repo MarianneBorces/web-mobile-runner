@@ -23,7 +23,7 @@ server.register( require( 'inert' ), () => {
 		}
 	} );
 
-	// Start the Server
+	// Start the Server here
 	server.start( ( err ) => {
 		if ( err ) {
 			throw err;
